@@ -11,7 +11,7 @@
 ### 💡 Passionate about building intelligent solutions with <b>Python</b>.
 ### 🌱 Constantly learning and evolving to become a robust <b>AI Engineer</b>.
 
----
+<br>
 
 ## 🛠 Tech Stack
 
@@ -34,8 +34,7 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
 </div>
 
----
-
+<br>
 
 ## 📬 Contact
 <div style="text-align: left;">
