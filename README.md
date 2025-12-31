@@ -7,9 +7,9 @@
 ## 💫 About Me
 > ### **AI Engineering Student at Woori FISA 6th Gen** 🚀
 
-### 🎓 Currently diving deep into **AI Engineering** & **Data Science**.
-### 💡 Passionate about building intelligent solutions with **Python**.
-### 🌱 Constantly learning and evolving to become a robust **AI Engineer**.
+#### 🎓 Currently diving deep into **AI Engineering** & **Data Science**.
+#### 💡 Passionate about building intelligent solutions with **Python**.
+#### 🌱 Constantly learning and evolving to become a robust **AI Engineer**.
 
 ---
 
