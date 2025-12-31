@@ -5,11 +5,11 @@
 </p>
 
 ## 💫 About Me
-> ### AI Engineering Student at Woori FISA 6th Gen 🚀
+> ### **AI Engineering Student at Woori FISA 6th Gen** 🚀
 
-### 🎓 Currently diving deep into <b>AI Engineering</b> & <b>Data Science</b>.
-### 💡 Passionate about building intelligent solutions with <b>Python</b>.
-### 🌱 Constantly learning and evolving to become a robust <b>AI Engineer</b>.
+### 🎓 Currently diving deep into **AI Engineering** & **Data Science**.
+### 💡 Passionate about building intelligent solutions with **Python**.
+### 🌱 Constantly learning and evolving to become a robust **AI Engineer**.
 
 <br>
 
@@ -33,6 +33,15 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=Matplotlib&logoColor=white">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
 </div>
+
+<br>
+
+## 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=JiyeonKim017&show_icons=true&theme=radical" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiyeonKim017&layout=compact&theme=radical" />
+</p>
 
 <br>
 
